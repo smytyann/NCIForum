@@ -1,0 +1,12 @@
+
+Install Xampp 
+Set Host file
+Set Vhost file
+Install Composer
+Install Laravel
+Paste Forum File
+Run on CMD composer update
+Run php artisan migrate
+Run php artisan db:seed
+add author_id column in therets table
+add remember_token colum in the user table
